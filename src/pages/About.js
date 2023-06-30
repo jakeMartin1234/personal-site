@@ -23,13 +23,13 @@ const About = () => {
   return (
     <Main
       title="About"
-      description="Learn about Michael D'Angelo"
+      description="Learn about Jake Martin"
     >
       <article className="post markdown" id="about">
         <header>
           <div className="title">
             <h2><Link to="/about">About Me</Link></h2>
-            <p>(in about {count} words)</p>
+            <p>(in {count} words)</p>
           </div>
         </header>
         <Markdown>

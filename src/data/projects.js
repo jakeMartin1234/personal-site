@@ -1,47 +1,43 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Dispersive Photon Mapping',
+    subtitle: 'Computer Graphics Course',
+    image: '/images/projects/spectraComparisons.png',
+    date: '2022-05-12',
+    link: 'https://github.com/jakeMartin1234/raveTracer',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Added to an open source photon mapping library '
+       + 'written in C++ by adding support for ray dispersion '
+       + 'effects. Also implemented laser light sources that could '
+       + 'emit photons in a specified direction. Program is cabable of '
+       + 'producing beutiful, complex caustic effects. Also implemented '
+       + 'different wavelength to color mappings which allows the program '
+       + 'to disperse different spectra as seen below.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Table Scanner',
+    subtitle: 'Personal Project',
+    link: 'https://github.com/jakeMartin1234/table-scanner-fullstack',
+    image: '/images/projects/ExampleGraph.png',
+    date: '2022-07-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Designed and developed a UI for a table reader '
+      + 'from scratch in ReactJS. I have also developed '
+      + 'the back end software to parse the scanned graph '
+      + 'using OCR APIs and make it available in a downloadable CSV file.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'The Floor is Lava',
+    subtitle: 'A fun school project.',
+    image: '/images/projects/byowGame.gif',
+    date: '2021-06-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Built a game using Java called "The Floor is Lava" '
+      + 'which involved making a randomly generated 2D map '
+      + 'with islands and pathways that connect the islands '
+      + 'together. Map is generated from a seed input by the user. '
+      + 'Game features a secret room where the player is tasked with a mission.',
   },
 ];
 
