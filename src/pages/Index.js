@@ -22,7 +22,7 @@ const Index = () => (
       </p>
       <div className="contact-info">
         <a href="mailto:jakemartinaus@gmail.com">jakemartinaus@gmail.com</a>
-        <ContactIcons />
+        <ContactIcons discardEmail />
       </div>
     </article>
     <JakeCarousel />
