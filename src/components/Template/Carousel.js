@@ -7,7 +7,7 @@ const photos = [
   'fijiFish.jpg',
   'giantSequoia.jpeg',
   'hawaii.jpg',
-  'bayAreaCrab.jpG',
+  'bayAreaCrab.jpg',
 ];
 
 const JakeCarousel = () => {
