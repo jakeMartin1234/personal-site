@@ -1,0 +1,26 @@
+.slider-container {
+    position: relative;
+}
+/* Slider buttons */
+.custom-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 275px;
+    transform: translateY(-50%);
+    background-color: #ffffff; /* Replace with your desired button color */
+    color: #000000; /* Replace with your desired button text color */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.prev-button {
+    left: 10px;
+}
+
+.next-button {
+    right: 10px;
+}
