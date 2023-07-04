@@ -5,7 +5,7 @@ import 'slick-carousel/slick/slick-theme.css';
 
 const photos = [
   'fijiFish.jpg',
-  'goldenGatePark.jpg',
+  'giantSequoia.jpeg',
   'hawaii.jpg',
   'bayAreaCrab.jpG',
 ];
