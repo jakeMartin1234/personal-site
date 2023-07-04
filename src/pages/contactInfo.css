@@ -1,0 +1,12 @@
+.contact-info {
+    display: flex;
+    align-items: bottom;
+}
+
+.contact-info a {
+    margin-right: 20px;
+}
+
+.contact-icons {
+    margin-left: 10px;
+}

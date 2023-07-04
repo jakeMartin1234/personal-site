@@ -1,20 +1,24 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
+import JakeCarousel from '../components/Template/Carousel';
+import ContactIcons from '../components/Contact/ContactIcons';
+import './contactInfo.css';
 
 const Index = () => (
-  <Main
-    description={"Jake Martin's personal website"}
-  >
+  <Main description={"Jake Martin's personal website"}>
     <article className="post" id="index">
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+      <p>
+        Hi, I am Jake, a UC Berkeley graduate with a degree in Computer Science.
+        I&apos;m passionate about web development
+        through which I have experience using frameworks such as React and Node.
       </p>
+      <div className="contact-info">
+        <a href="mailto:jakemartinaus@gmail.com">jakemartinaus@gmail.com</a>
+        <ContactIcons />
+      </div>
     </article>
+    <JakeCarousel />
   </Main>
 );
 

@@ -20,9 +20,9 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I am Jake, a UC Berkeley graduate with a major in Computer Science.
-        I have a strong interest in web app development in JavaScript
-        through which I have experience using frameworks such as React and Node.
+        Hi, I am Jake, a UC Berkeley graduate with a degree in Computer Science.
+        I&apos;m, passionate about web development through which I have experience using
+        frameworks such as React and Node.
       </p>
       <ul>
         <li>
