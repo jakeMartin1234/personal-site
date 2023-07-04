@@ -1,6 +1,19 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Share Portfolio Visualizer',
+    subtitle: 'Personal Project',
+    image: '/images/projects/visualizerScreenshot.png',
+    date: '2023-05-20',
+    link: 'https://jakemartin1234.github.io/share-portfolio-visualizer-frontend/',
+    desc:
+        'Designed and Developed a web application that allows users to '
+        + 'visualize their share portfolio using charts made by recharts.js. '
+        + 'Users can add share portfolios to the program and it will automatically '
+        + 'generate a series of charts that give the user statistics about their portfolio. '
+        + 'Click the photo to go to the live demo.',
+  },
+  {
     title: 'Dispersive Photon Mapping',
     subtitle: 'Computer Graphics Course',
     image: '/images/projects/spectraComparisons.png',
@@ -11,7 +24,7 @@ const data = [
        + 'written in C++ by adding support for ray dispersion '
        + 'effects. Also implemented laser light sources that could '
        + 'emit photons in a specified direction. Program is cabable of '
-       + 'producing beutiful, complex caustic effects. Also implemented '
+       + 'producing beautiful, complex caustic effects. Also implemented '
        + 'different wavelength to color mappings which allows the program '
        + 'to disperse different spectra as seen below.',
   },

@@ -13,6 +13,17 @@
  */
 const work = [
   {
+    name: 'Neubauer Agency',
+    position: 'Web Developer Intern',
+    startDate: '2023-05-05',
+    highlights: [
+      'Facilitated the development of custom websites for individual clients, aligning with their unique requirements and'
+      + 'preferences.',
+      'Created visually appealing website layouts using Figma and seamlessly transformed them into functional and responsive\n'
+      + 'Wix pages.',
+    ],
+  },
+  {
     name: 'Looy Lab, University of California Museum of Paleontology',
     position: 'Assistant',
     startDate: '2022-01-01',
