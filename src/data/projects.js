@@ -18,7 +18,7 @@ const data = [
     subtitle: 'Computer Graphics Course',
     image: '/images/projects/spectraComparisons.png',
     date: '2022-05-12',
-    link: 'https://github.com/jakeMartin1234/raveTracer',
+    link: 'https://cal-cs184-student.github.io/sp22-project-webpages-jlbuja/final/index.html',
     desc:
       'Added to an open source photon mapping library '
        + 'written in C++ by adding support for ray dispersion '
@@ -27,6 +27,17 @@ const data = [
        + 'producing beautiful, complex caustic effects. Also implemented '
        + 'different wavelength to color mappings which allows the program '
        + 'to disperse different spectra as seen below.',
+  },
+  {
+    title: 'Computer Graphics Coursework',
+    subtitle: 'Computer Graphics Course',
+    image: '/images/projects/spheresTracing.png',
+    date: '2022-03-20',
+    link: 'https://cal-cs184-student.github.io/sp22-project-webpages-jakeMartin1234/',
+    desc:
+        'Implemented a rasterizer, a mesh upsampler, a ray tracer and a virtual cloth used '
+        + 'for animations in C++ for my university\'s computer graphics course. Clicking the image'
+        + 'above will take you to a website explaining all of the projects.',
   },
   {
     title: 'Table Scanner',

@@ -2,8 +2,11 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
+
 import JakeCarousel from '../components/Template/Carousel';
+
 import ContactIcons from '../components/Contact/ContactIcons';
+
 import './contactInfo.css';
 
 const Index = () => (
