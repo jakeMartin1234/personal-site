@@ -20,7 +20,7 @@ const work = [
       'Facilitated the development of custom websites for individual clients, aligning with their unique requirements and'
       + 'preferences.',
       'Created visually appealing website layouts using Figma and seamlessly transformed them into functional and responsive\n'
-      + 'Wix pages.',
+      + 'Wix components.',
     ],
   },
   {

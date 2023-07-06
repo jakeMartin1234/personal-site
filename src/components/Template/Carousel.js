@@ -7,6 +7,7 @@ import './carousel.css';
 
 const photos = [
   'fijiFish.jpg',
+  'gradPic.jpg',
   'giantSequoia.jpeg',
   'hawaii.jpg',
   'bayAreaCrab.jpg',
