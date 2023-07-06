@@ -24,7 +24,9 @@ const Index = () => (
         or <Link to="/contact">contact</Link> me.
       </p>
       <div className="contact-info">
-        <a href="mailto:jakemartinaus@gmail.com">jakemartinaus@gmail.com</a>
+        <header>
+          <a href="mailto:jakemartinaus@gmail.com">jakemartinaus@gmail.com</a>
+        </header>
         <ContactIcons discardEmail />
       </div>
     </article>
