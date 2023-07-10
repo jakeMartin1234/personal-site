@@ -1,10 +1,23 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Productivity Web App',
+    subtitle: 'Personal Project',
+    image: '/images/projects/productivityApp.png',
+    date: '2023-07-20',
+    link: 'https://jakemartin1234.github.io/productivity-app-frontend/',
+    desc:
+        'Designed and Developed a productivity based web application that '
+        + 'allows users to create and manage to-do lists. I plan on adding more '
+        + 'functionality to the app such as sticky notes and possibly a calendar. '
+        + 'I used Auth0 for authentication and MongoDB for the database. Click the photo '
+        + 'to go to the live demo.',
+  },
+  {
     title: 'Share Portfolio Visualizer',
     subtitle: 'Personal Project',
     image: '/images/projects/visualizerScreenshot.png',
-    date: '2023-05-20',
+    date: '2023-06-20',
     link: 'https://jakemartin1234.github.io/share-portfolio-visualizer-frontend/',
     desc:
         'Designed and Developed a web application that allows users to '
