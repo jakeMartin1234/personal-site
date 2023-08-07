@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Circle of Fifths Jam Board',
+    subtitle: 'Personal Project',
+    image: '/images/projects/circleOfFifths.png',
+    date: '2023-08-6',
+    link: 'https://jakemartin1234.github.io/circle-of-fifths-jam-board/',
+    desc:
+        'A small app I created that provides the user with an highly visual '
+        + 'way to interact with the circle of fifths. Click the photo '
+        + 'to go to the live demo.',
+  },
+  {
     title: 'Productivity Web App',
     subtitle: 'Personal Project',
     image: '/images/projects/productivityApp.png',
