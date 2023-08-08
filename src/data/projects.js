@@ -7,7 +7,7 @@ const data = [
     date: '2023-08-6',
     link: 'https://jakemartin1234.github.io/circle-of-fifths-jam-board/',
     desc:
-        'A small app I created that provides the user with an highly visual '
+        'A small app I created that provides the user with a highly visual '
         + 'way to interact with the circle of fifths. Click the photo '
         + 'to go to the live demo.',
   },
@@ -81,7 +81,7 @@ const data = [
     image: '/images/projects/byowGame.gif',
     date: '2021-06-28',
     desc:
-      'Built a game using Java called "The Floor is Lava" '
+      'Developed a game using Java called "The Floor is Lava" '
       + 'which involved making a randomly generated 2D map '
       + 'with islands and pathways that connect the islands '
       + 'together. Map is generated from a seed input by the user. '
