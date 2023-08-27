@@ -8,7 +8,7 @@ const data = [
     link: 'https://www.npmjs.com/package/three-particle-geometry',
     desc:
         'A npm package that allows users to represent threeJS geometry '
-        + 'instances as a system customizable particles. I used Webpack and Babel'
+        + 'instances as a system of customizable particles. I used Webpack and Babel '
         + 'to bundle the package and make it compatible with all browsers that support '
         + 'threeJS. So far it is averaging over 1000 weekly installs.',
   },
