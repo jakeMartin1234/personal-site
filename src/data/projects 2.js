@@ -1,18 +1,6 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'three-particle-geometry NPM Package',
-    subtitle: 'Personal Project',
-    image: '/images/projects/three-particle-geometry.png',
-    date: '2023-08-25',
-    link: 'https://www.npmjs.com/package/three-particle-geometry',
-    desc:
-        'A npm package that allows users to represent threeJS geometry '
-        + 'instances as a system customizable particles. I used Webpack and Babel'
-        + 'to bundle the package and make it compatible with all browsers that support '
-        + 'threeJS. So far it is averaging over 1000 weekly installs.',
-  },
-  {
     title: 'Circle of Fifths Jam Board',
     subtitle: 'Personal Project',
     image: '/images/projects/circleOfFifths.png',
@@ -56,13 +44,13 @@ const data = [
     date: '2022-05-12',
     link: 'https://cal-cs184-student.github.io/sp22-project-webpages-jlbuja/final/index.html',
     desc:
-        'Added to an open source photon mapping library '
-        + 'written in C++ by adding support for ray dispersion '
-        + 'effects. Also implemented laser light sources that could '
-        + 'emit photons in a specified direction. Program is cabable of '
-        + 'producing beautiful, complex caustic effects. Also implemented '
-        + 'different wavelength to color mappings which allows the program '
-        + 'to disperse different spectra as seen below.',
+      'Added to an open source photon mapping library '
+       + 'written in C++ by adding support for ray dispersion '
+       + 'effects. Also implemented laser light sources that could '
+       + 'emit photons in a specified direction. Program is cabable of '
+       + 'producing beautiful, complex caustic effects. Also implemented '
+       + 'different wavelength to color mappings which allows the program '
+       + 'to disperse different spectra as seen below.',
   },
   {
     title: 'Computer Graphics Coursework',
@@ -82,10 +70,10 @@ const data = [
     image: '/images/projects/ExampleGraph.png',
     date: '2022-07-20',
     desc:
-        'Designed and developed a UI for a table reader '
-        + 'from scratch in ReactJS. I have also developed '
-        + 'the back end software to parse the scanned graph '
-        + 'using OCR APIs and make it available in a downloadable CSV file.',
+      'Designed and developed a UI for a table reader '
+      + 'from scratch in ReactJS. I have also developed '
+      + 'the back end software to parse the scanned graph '
+      + 'using OCR APIs and make it available in a downloadable CSV file.',
   },
   {
     title: 'The Floor is Lava',
@@ -93,11 +81,11 @@ const data = [
     image: '/images/projects/byowGame.gif',
     date: '2021-06-28',
     desc:
-        'Developed a game using Java called "The Floor is Lava" '
-        + 'which involved making a randomly generated 2D map '
-        + 'with islands and pathways that connect the islands '
-        + 'together. Map is generated from a seed input by the user. '
-        + 'Game features a secret room where the player is tasked with a mission.',
+      'Developed a game using Java called "The Floor is Lava" '
+      + 'which involved making a randomly generated 2D map '
+      + 'with islands and pathways that connect the islands '
+      + 'together. Map is generated from a seed input by the user. '
+      + 'Game features a secret room where the player is tasked with a mission.',
   },
 ];
 
