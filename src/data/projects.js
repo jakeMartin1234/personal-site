@@ -1,13 +1,23 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'three-svg-extrude NPM Package',
+    subtitle: 'Personal Project',
+    image: '/images/projects/three-svg-extrude.png',
+    date: '2023-08-28',
+    link: 'https://www.npmjs.com/package/three-svg-extrude',
+    desc:
+        'An npm package that effortlessly transforms SVG shapes '
+        + 'into extruded 3D geometries for use in ThreeJS scenes.',
+  },
+  {
     title: 'three-particle-geometry NPM Package',
     subtitle: 'Personal Project',
     image: '/images/projects/three-particle-geometry.png',
     date: '2023-08-25',
     link: 'https://www.npmjs.com/package/three-particle-geometry',
     desc:
-        'A npm package that allows users to represent threeJS geometry '
+        'An npm package that allows users to represent threeJS geometry '
         + 'instances as a system of customizable particles. I used Webpack and Babel '
         + 'to bundle the package and make it compatible with all browsers that support '
         + 'threeJS. So far it is averaging over 1000 weekly installs.',
