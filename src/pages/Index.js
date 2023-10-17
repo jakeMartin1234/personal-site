@@ -13,9 +13,9 @@ const Index = () => (
   <Main description={"Jake Martin's personal website"} fullPage>
     <article className="post" id="index">
       <p>
-        Hi, I am Jake, a UC Berkeley graduate with a degree in Computer Science.
-        I&apos;m passionate about web development
-        through which I have experience using frameworks such as React and Node.
+        Hi, I&apos;m Jake, a graduate of University of California, Berkeley with a degree
+        in Computer Science. I&apos;m passionate about web development through which I
+        have experience using frameworks such as React, Angular and Node.
         Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}

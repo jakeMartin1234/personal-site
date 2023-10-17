@@ -13,24 +13,24 @@
  */
 const work = [
   {
+    name: 'NextGen.Net',
+    position: 'Software Engineer',
+    url: 'https://nextgen.net/',
+    startDate: '2023-10-02',
+    highlights: [
+      'Member of the Research and Development Team working with Angular and NodeJS.',
+    ],
+  },
+  {
     name: 'Neubauer Agency',
     position: 'Web Developer Intern',
     startDate: '2023-05-05',
+    endDate: '2023-08-20',
     highlights: [
       'Facilitated the development of custom websites for individual clients, aligning with their unique requirements and'
       + 'preferences.',
       'Created visually appealing website layouts using Figma and seamlessly transformed them into functional and responsive\n'
       + 'Wix components.',
-    ],
-  },
-  {
-    name: 'Looy Lab, University of California Museum of Paleontology',
-    position: 'Assistant',
-    startDate: '2022-01-01',
-    endDate: '2022-11-01',
-    highlights: [
-      'Worked alongside Professor Looy to develop a graph reader application to intake paleontology data sheets.',
-      'Designed and developed a user interface is ReactJS that enables a person to upload photos and quickly plot the\nboarders of a data table in the photos.',
     ],
   },
   {

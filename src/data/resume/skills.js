@@ -15,6 +15,11 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
+    title: 'Angular',
+    competency: 4,
+    category: ['Web Development', 'Javascript'],
+  },
+  {
     title: 'Google Cloud Platform',
     competency: 4,
     category: ['Web Development', 'Tools'],
