@@ -1,3 +1,3 @@
 # Personal Website
 
-This is my personal website. It is hosted at [jakemartinaus.me](https://jakemartinaus.me). Adapted from https://github.com/mldangelo/personal-site.
+This is my personal website. I Adapted from https://github.com/mldangelo/personal-site.
